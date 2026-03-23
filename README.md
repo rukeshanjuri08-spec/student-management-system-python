@@ -1,0 +1,2 @@
+# student-management-system-python
+A PYTHON-BASED STUDENT MANAGEMENT SYSTEM WITH JSON STORAGE
